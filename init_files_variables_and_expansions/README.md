@@ -1,1 +1,1 @@
-Hi From inside folder 01!!
+# Init files, variables and expansions
